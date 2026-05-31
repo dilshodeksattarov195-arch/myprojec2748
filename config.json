@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentderify",
+        "uuid": 8112096,
+        "checksum": "32x74"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
